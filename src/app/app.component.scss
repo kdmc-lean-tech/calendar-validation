@@ -1,0 +1,15 @@
+.opportunities__container {
+  padding: 50px;
+  span {
+    padding: 15px;
+    border: 1px solid black;
+  }
+}
+
+:host {
+  p {
+    color: red;
+    font-size: 20px;
+    padding: 50px;
+  }
+}
